@@ -1,8 +1,6 @@
 # Medical Insurance Cost Prediction</h1>
 
-## Motivation
-
-To predict things have been never so easy. I used to wonder how Insurance amount is charged normally. So, in the mean time I came across this dataset and thought of working on it! Using this I wanted to know how few features determine our insurance amount! 
+By this machine learnig model you will now how features impact the the medical cost assurance.
  
  ## Features
 <ol>
