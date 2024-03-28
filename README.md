@@ -22,7 +22,7 @@ By this machine learnig model you will now how features impact the the medical c
 
 ##  Results
 
-####  Model gave 86% accuracy for Medical Insurance Amount Prediction using <code>Random Forest Regressor</code>
+####  Model gave 86% accuracy for Medical Insurance Amount Prediction using Random Forest Regressor
 
 
 ## Dataset
