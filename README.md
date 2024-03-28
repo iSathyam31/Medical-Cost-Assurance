@@ -1,6 +1,6 @@
 # Medical Insurance Cost Prediction</h1>
 
-By this machine learnig model you will now how features impact the the medical cost assurance.
+By this machine learnig model you will now how features impact the medical cost assurance.
  
  ## Features
 <ol>
